@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Serrano</h1>
-<h3 align="center">A passionate Fullstack Stack Developer from Venezuela</h3>
+<h3 align="center">A passionate Fullstack Web Developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
