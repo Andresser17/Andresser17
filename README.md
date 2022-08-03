@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alejandro Serrano</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Venezuela</h3>
 
+<p align="center">
+I'm on the search to find a good team and a good environment where I can impulse my career as a web developer, I have the skills to make the job and a good experience learning the last tools and frameworks for being a good developer, but I consider I learn fast and I can adapt easily to a new environment and support all the new responsibilities that I will need to affront. I have proficiency in most required web technologies JS, HTML, CSS, React, Node, SQL, and MongoDB.
+</p>
+
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript,React, Redux, Express, Sequelize**
