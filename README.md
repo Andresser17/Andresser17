@@ -11,7 +11,7 @@ I'm on the search to find a good team and a good environment where I can impulse
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alejandro-serrano-fullstack-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-serrano-fullstack-developer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alejandro-serrano-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-serrano-fullstack-developer" height="30" width="40" /></a>
 <a href="mailto:andresserserrano2020@gmail.com" target="blank"><img align="center" src="./icons/gmail-icon.svg" alt="alejandro-serrano-fullstack-developer" width="50" /></a>
 </p>
 
