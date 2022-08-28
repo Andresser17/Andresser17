@@ -60,7 +60,7 @@ Redux, Express, Sequelize**
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-  <span>
+  <span style="display:block;width:fit-content;">
     <a
       href="https://www.gnu.org/software/bash/"
       target="_blank"
