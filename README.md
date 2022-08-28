@@ -60,7 +60,7 @@ Redux, Express, Sequelize**
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-  <div width="fit-content">
+  <div width="4rem" height="4rem">
     <a
       href="https://www.gnu.org/software/bash/"
       target="_blank"
@@ -73,7 +73,8 @@ Redux, Express, Sequelize**
         height="40"
       />
     </a>
-    <span>Bash</span>
+   <br>
+   Bash
   </div>
   <span>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
