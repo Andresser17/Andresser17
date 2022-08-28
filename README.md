@@ -1,28 +1,3 @@
-<style>
-  * {
-    margin: none;
-    padding: none;
-    box-sizing: border-box;
-  }
-
-  ul {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-  }
-
-  li {
-    width: 4rem;
-    height: 4rem;
-      margin-right: 4rem;
-    margin-bottom: 1rem;
-  }
-
-  li span {
-    display: block;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Alejandro Serrano</h1>
 <h3 align="center">A passionate Fullstack Developer from Venezuela</h3>
 
@@ -60,7 +35,7 @@ Redux, Express, Sequelize**
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-  <div width="4rem" height="4rem">
+  <span>
     <a
       href="https://www.gnu.org/software/bash/"
       target="_blank"
@@ -75,7 +50,7 @@ Redux, Express, Sequelize**
     </a>
    <br>
    Bash
-  </div>
+  </span>
   <span>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
@@ -85,7 +60,8 @@ Redux, Express, Sequelize**
         height="40"
       />
     </a>
-    <span>CSS3</span>
+    <br>
+    CSS3
   </span>
   <span>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
