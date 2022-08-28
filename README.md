@@ -59,7 +59,7 @@ Redux, Express, Sequelize**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<span>
+<div>
   <span>
     <a
       href="https://www.gnu.org/software/bash/"
@@ -244,7 +244,7 @@ Redux, Express, Sequelize**
     </a>
     <span>Vue.js</span>
   </span>
-</span>
+</div>
 
 <p>
   <img
